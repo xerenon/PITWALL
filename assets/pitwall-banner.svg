@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+<title id="title">PITWALL — YOUR RACE. OUR CALL.</title><desc id="desc">PITWALL racing wordmark in white and racing pink against charcoal</desc>
+<rect width="1280" height="380" fill="#0d0f14"/>
+<path d="M76 91h25L68 187H43zM113 91h25l-33 96H80z" fill="#ff0050"/>
+<text x="163" y="187" font-family="Arial, sans-serif" font-size="112" font-weight="900" letter-spacing="-4" fill="#f5f6f8">PITWALL</text>
+<text x="76" y="253" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="2" fill="#f5f6f8">YOUR RACE. OUR CALL.</text>
+<path d="M1015 0h74L959 380h-74zM1121 0h74l-130 380h-74zM1227 0h74l-130 380h-74z" fill="#ff0050"/>
+<path d="M76 310h724" stroke="#303643"/>
+<text x="76" y="343" font-family="Arial, sans-serif" font-size="16" letter-spacing="3" fill="#a4adbf">THAI RACE ENGINEER / LE MANS ULTIMATE</text>
+</svg>
